@@ -1,0 +1,32 @@
+[
+  {
+    "id": 4,
+    "firstName": "AADVI",
+    "lastName": "OMI",
+    "email": "AADVI@GMAIL.COM"
+  },
+  {
+    "id": 2,
+    "firstName": "BABY",
+    "lastName": "KODAM",
+    "email": "NIKHI@GMAIL.COM"
+  },
+  {
+    "id": 3,
+    "firstName": "NIKHILA",
+    "lastName": "KODAM",
+    "email": "POSTMAN@GMAIL.COM"
+  },
+  {
+    "id": 1,
+    "firstName": "TANSI",
+    "lastName": "KODAM",
+    "email": "NANI@GMAIL.COM"
+  },
+  {
+    "id": 5,
+    "firstName": "rams",
+    "lastName": "raju",
+    "email": "ramya@gmail.com"
+  }
+]

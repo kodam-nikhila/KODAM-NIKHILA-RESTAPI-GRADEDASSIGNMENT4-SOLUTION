@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "username": "nani",
+  "password": "$2a$10$19eW5VM8HOPJG6qLy.F3KuU8bHMXCkMeZR8usnVIqB2GjYdJ58JoK",
+  "roles": [
+    {
+      "id": 2,
+      "name": "USER"
+    }
+  ]
+}
